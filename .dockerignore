@@ -1,0 +1,21 @@
+# Docker ignore files
+.git
+.gitignore
+*.md
+.env
+.venv
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+node_modules/
+npm-debug.log
+.DS_Store
+*.log
