@@ -132,6 +132,9 @@ cd radiomics-platform
 # 启动服务
 docker-compose up -d --build
 ```
+###前后端build大概需要30分钟+  提供docker hub直接下载
+docker pull yangchen0513/radiomics-backend:20260327
+docker pull yangchen0513/radiomics-frontend:20260327
 
 ### 访问地址
 
